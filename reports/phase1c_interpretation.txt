@@ -1,0 +1,7 @@
+We joined team strength (v2 Poisson GLM strength_score) with line disparity (adjusted) for 32 teams.
+The association is Spearman rho=-0.033 (p=0.858), which indicates a negative monotonic relationship.
+The largest line disparity is usa with disparity_ratio_adj=1.364, suggesting a bigger gap between first- and second-line xG/60.
+The strongest team by v2 strength_score is brazil with strength_score=0.000.
+One notable deviation from the overall trend is peru, which sits far from the best-fit line given its disparity and strength.
+We chose disparity ratio on the scatterplot makes it easy to identify which teams drive the pattern and which teams behave unusually.
+Labeling teams on teh scatterplot makes it easy to identify which teams drive the pattern and which teams behave unusually.

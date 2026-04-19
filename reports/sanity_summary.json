@@ -1,0 +1,20 @@
+{
+  "teams": 32,
+  "games": 1312,
+  "went_ot_rate": 0.21951219512195122,
+  "home_win_rate": 0.5640243902439024,
+  "team_games_distribution": {
+    "min": 82,
+    "median": 82.0,
+    "max": 82,
+    "expected_each_team": 82
+  },
+  "game_id_pair_consistency": {
+    "bad_game_ids_count": 0,
+    "bad_game_ids_sample": []
+  },
+  "files_written": {
+    "team_games_counts_csv": "/Users/changhoon/Desktop/CSIA_2nd/WDSC/WHSDSC_2026/reports/team_games_counts.csv",
+    "game_toi_summary_csv": "/Users/changhoon/Desktop/CSIA_2nd/WDSC/WHSDSC_2026/reports/game_toi_summary.csv"
+  }
+}

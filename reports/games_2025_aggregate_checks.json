@@ -1,0 +1,97 @@
+{
+  "rows": 1312,
+  "row_ok": true,
+  "checks": {
+    "home_goals": {
+      "original_sum": 4056.0,
+      "aggregated_sum": 4056.0,
+      "abs_diff": 0.0,
+      "rel_diff": 0.0,
+      "ok": true
+    },
+    "away_goals": {
+      "original_sum": 3498.0,
+      "aggregated_sum": 3498.0,
+      "abs_diff": 0.0,
+      "rel_diff": 0.0,
+      "ok": true
+    },
+    "home_xg": {
+      "original_sum": 4105.2746,
+      "aggregated_sum": 4105.274600000001,
+      "abs_diff": 9.094947017729282e-13,
+      "rel_diff": 2.2154296372109385e-16,
+      "ok": true
+    },
+    "away_xg": {
+      "original_sum": 3688.1289,
+      "aggregated_sum": 3688.1288999999997,
+      "abs_diff": 4.547473508864641e-13,
+      "rel_diff": 1.2330028673522339e-16,
+      "ok": true
+    },
+    "home_shots": {
+      "original_sum": 36164.0,
+      "aggregated_sum": 36164.0,
+      "abs_diff": 0.0,
+      "rel_diff": 0.0,
+      "ok": true
+    },
+    "away_shots": {
+      "original_sum": 34327.0,
+      "aggregated_sum": 34327.0,
+      "abs_diff": 0.0,
+      "rel_diff": 0.0,
+      "ok": true
+    },
+    "home_assists": {
+      "original_sum": 6329.0,
+      "aggregated_sum": 6329.0,
+      "abs_diff": 0.0,
+      "rel_diff": 0.0,
+      "ok": true
+    },
+    "away_assists": {
+      "original_sum": 5461.0,
+      "aggregated_sum": 5461.0,
+      "abs_diff": 0.0,
+      "rel_diff": 0.0,
+      "ok": true
+    },
+    "home_penalties_committed": {
+      "original_sum": 8174.0,
+      "aggregated_sum": 8174.0,
+      "abs_diff": 0.0,
+      "rel_diff": 0.0,
+      "ok": true
+    },
+    "home_penalty_minutes": {
+      "original_sum": 16697.0,
+      "aggregated_sum": 16697.0,
+      "abs_diff": 0.0,
+      "rel_diff": 0.0,
+      "ok": true
+    },
+    "away_penalties_committed": {
+      "original_sum": 8908.0,
+      "aggregated_sum": 8908.0,
+      "abs_diff": 0.0,
+      "rel_diff": 0.0,
+      "ok": true
+    },
+    "away_penalty_minutes": {
+      "original_sum": 18172.0,
+      "aggregated_sum": 18172.0,
+      "abs_diff": 0.0,
+      "rel_diff": 0.0,
+      "ok": true
+    },
+    "toi": {
+      "original_sum": 4912163.74,
+      "aggregated_sum": 4912163.74,
+      "abs_diff": 0.0,
+      "rel_diff": 0.0,
+      "ok": true
+    }
+  }
+}

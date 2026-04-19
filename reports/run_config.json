@@ -1,0 +1,27 @@
+{
+  "expected_files": {
+    "data_dictionary_xlsx": "WHSDSC_2026_DataDictionary.xlsx",
+    "glossary_docx": "WHSDSC 2026 Glossary.docx",
+    "matchups_xlsx": "WHSDSC_Rnd1_matchups.xlsx",
+    "whl_2025_csv": "whl_2025.csv",
+    "whl_2025_xlsx": "whl_2025.xlsx",
+    "workbook_pdf": "WHSDSC 2026 Workbook - Hockey.pdf"
+  },
+  "output_contract": {
+    "phase1a_power_rankings_csv": "out/power_rankings.csv",
+    "phase1a_round1_probs_csv": "out/round1_homewin_probs.csv",
+    "phase1b_top10_csv": "out/line_disparity_top10.csv",
+    "phase1c_png_glob": "out/phase1c_*.png",
+    "phase1d_text": "reports/phase1d_answers.txt"
+  },
+  "paths": {
+    "data_raw_dir": "/Users/changhoon/Desktop/CSIA_2nd/WDSC/WHSDSC_2026/data_raw",
+    "data_work_dir": "/Users/changhoon/Desktop/CSIA_2nd/WDSC/WHSDSC_2026/data_work",
+    "out_dir": "/Users/changhoon/Desktop/CSIA_2nd/WDSC/WHSDSC_2026/out",
+    "project_root": "/Users/changhoon/Desktop/CSIA_2nd/WDSC/WHSDSC_2026",
+    "reports_dir": "/Users/changhoon/Desktop/CSIA_2nd/WDSC/WHSDSC_2026/reports",
+    "src_dir": "/Users/changhoon/Desktop/CSIA_2nd/WDSC/WHSDSC_2026/src",
+    "zip_path": ""
+  },
+  "seed": 2026
+}

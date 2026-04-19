@@ -1,0 +1,7 @@
+We joined team strength (v2 Poisson GLM) and line disparity (adjusted) for 32 teams.
+The relationship is near zero (Spearman rho=-0.033, p=0.858), suggesting disparity alone does not explain overall strength here.
+We plotted all teams but labeled only key extremes (top/bottom by disparity and strength) to reduce overlap and improve readability.
+Because v2 strength_score is defined relative to a reference category in the GLM, we mean-centered strength so y=0 represents league-average strength.
+The largest deviation from a simple linear trend is peru, highlighted via residual magnitude in the centered plot.
+We kept the x-axis as a ratio with a reference line at 1.0 to directly match the Phase 1b first/second line definition.
+The figure is saved under 5MB and includes labeled axes, title/subtitle, and a brief caption for reproducibility.

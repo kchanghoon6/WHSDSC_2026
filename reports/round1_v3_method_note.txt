@@ -1,0 +1,5 @@
+We evaluated Platt scaling (logit calibration) using 5-fold CV on 2025 season games.
+Calibration used: False
+Raw CV brier/logloss: 0.246039 / 0.685208
+Cal CV brier/logloss: 0.247116 / 0.687401
+Round 1 probabilities use the chosen method and assume regulation-length exposure (60 minutes).

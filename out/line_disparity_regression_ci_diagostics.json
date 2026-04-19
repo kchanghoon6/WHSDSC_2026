@@ -1,0 +1,13 @@
+{
+  "n_obs": 41982,
+  "teams": 32,
+  "baseline_opp_def_pair": "first_def",
+  "n_boot_target": 200,
+  "n_boot_success": 200,
+  "attempts": 200,
+  "seed": 20260219,
+  "failures": {},
+  "full_fit_aic": 23776.024789354728,
+  "full_fit_deviance": 4555.149052831948,
+  "elapsed_sec": 102.29216104200168
+}

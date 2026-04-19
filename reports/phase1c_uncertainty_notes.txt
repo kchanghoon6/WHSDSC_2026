@@ -1,0 +1,7 @@
+We joined team strength (offset Poisson model) with regression-based line disparity CI for 32 teams.
+The scatter plot encodes uncertainty by marker size (wider 95% CI -> larger marker) and selectively labels a subset of teams.
+Spearman correlation between disparity_ratio_point and strength_index (higher = stronger) is rho=0.030 (p=0.869), suggesting little monotonic association in this sample.
+Confidence-interval screening shows 14 teams with ci95_lo > 1.0 (first line reliably above second line) and 18 teams whose CI crosses 1.0.
+Labels shown: 15 teams selected from extremes of disparity, strength, and CI width to aid readability without clutter.
+Interpretation should emphasize (1) which teams have reliably high disparity (ci95_lo>1), and (2) that the strength-disparity relationshipo appears weak under this definition.
+All steps are reproducible from the stored CSV outputs; the plot is a visualization of already-computed metrics rather than an additional fitted model.

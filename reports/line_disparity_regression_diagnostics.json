@@ -1,0 +1,65 @@
+{
+  "n_obs": 41982,
+  "teams": 32,
+  "aic": 23798.12656659593,
+  "deviance": 4515.2508300731515,
+  "null_deviance": 4684.136237093386,
+  "pseudo_r2_deviance": 0.03605475982590789,
+  "pearson_chi2": 4281.695682835753,
+  "df_resid": 41886.0,
+  "dispersion": 0.10222259663934855,
+  "baseline_team": "brazil",
+  "weights_joint_opp_team_def_sum": 1.0,
+  "weights_preview": [
+    {
+      "opp_team": "philippines",
+      "opp_def": "first_def",
+      "w": 0.016942929879824285
+    },
+    {
+      "opp_team": "philippines",
+      "opp_def": "second_def",
+      "w": 0.016560192765353223
+    },
+    {
+      "opp_team": "china",
+      "opp_def": "first_def",
+      "w": 0.016450059947558878
+    },
+    {
+      "opp_team": "uk",
+      "opp_def": "first_def",
+      "w": 0.016431394072451005
+    },
+    {
+      "opp_team": "morocco",
+      "opp_def": "first_def",
+      "w": 0.016261087481820615
+    },
+    {
+      "opp_team": "peru",
+      "opp_def": "second_def",
+      "w": 0.01625619501398015
+    },
+    {
+      "opp_team": "uae",
+      "opp_def": "first_def",
+      "w": 0.016198198854941327
+    },
+    {
+      "opp_team": "peru",
+      "opp_def": "first_def",
+      "w": 0.01615431134108343
+    },
+    {
+      "opp_team": "kazakhstan",
+      "opp_def": "second_def",
+      "w": 0.01611495383698001
+    },
+    {
+      "opp_team": "saudi_arabia",
+      "opp_def": "first_def",
+      "w": 0.01611347105390098
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+Using v3 (TOI-offset) Poisson attack/defense strength and line_disparity_adjusted_all.csv disparity, Spearman rho=-0.041 (p=0.823) suggests little monotinic association.Strength is mean-centered for interpretability (y=0 = league.average).We label extremes and the largest residual outlier to highlight teams that do not follow the overall trend.

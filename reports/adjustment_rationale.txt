@@ -1,0 +1,5 @@
+We computed baseline first/second line xG/60 using total TOI, then added an opponent-defense adjustment for interpretability.
+Specifically, we split each team’s first_off and second_off production by the opponent’s defense pairing (first_def vs second_def).
+We upweighted production against first_def by 1.10 (vs 1.00 for second_def), then recomputed xG/60 using weighted xG and weighted TOI.
+This keeps the metric comparable across teams while acknowledging that not all minutes are equally difficult due to matchup quality.
+We report both baseline and adjusted top-10 lists and quantify rank shifts to make the impact of the adjustment transparent.

@@ -1,0 +1,13 @@
+{
+  "model_tag": "poisson_glm_attack_def_offset_v3",
+  "cv": {
+    "kfold": 5,
+    "ties": 0,
+    "raw_brier_mean": 0.24603867589990774,
+    "raw_logloss_mean": 0.6852075091785268,
+    "cal_brier_mean": 0.2471158158398194,
+    "cal_logloss_mean": 0.6874007804423323
+  },
+  "use_calibration": false,
+  "calibration_params": null
+}

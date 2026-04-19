@@ -1,0 +1,21 @@
+{
+  "game_id": "str",
+  "home_team": "str",
+  "away_team": "str",
+  "went_ot": "int64",
+  "home_goals": "int64",
+  "away_goals": "int64",
+  "home_xg": "float64",
+  "away_xg": "float64",
+  "home_shots": "int64",
+  "away_shots": "int64",
+  "home_assists": "int64",
+  "away_assists": "int64",
+  "home_penalties_committed": "int64",
+  "away_penalties_committed": "int64",
+  "home_penalty_minutes": "int64",
+  "away_penalty_minutes": "int64",
+  "penalties_committed": "int64",
+  "penalty_minutes": "int64",
+  "toi": "float64"
+}

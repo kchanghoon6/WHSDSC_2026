@@ -1,0 +1,12 @@
+{
+  "model_tag": "poisson_glm_attack_def_offset_v3",
+  "n_games": 1312,
+  "ties": 0,
+  "brier": 0.25,
+  "logloss": 0.6931471805599453,
+  "aic": 10229.38962734225,
+  "deviance": 3152.272063526686,
+  "home_adv_beta_log": 0.14813852886850387,
+  "home_adv_mult": 1.1596735334987063,
+  "intercept": 1.1066609378269199
+}

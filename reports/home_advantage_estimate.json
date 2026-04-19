@@ -1,0 +1,5 @@
+{
+  "home_adv_beta_log": 0.14841643236777982,
+  "home_adv_multiplier_exp_beta": 1.159995855616831,
+  "notes": "Poisson GLM: goals ~ is_home + offense_team + defense_team (defense coef = goals allowed tendency)"
+}

@@ -1,0 +1,17 @@
+Regression-based line disparity CI summary (STEP18 visuals)
+ci_file: /Users/changhoon/Desktop/CSIA_2nd/WDSC/WHSDSC_2026/out/line_disparity_regression_ci_all.csv
+rows: 32 (expected 32) | ci_complete: True
+CI vs 1.0: lo>1=14 | hi<1=0 | crosses_1=18
+Stability proxy: P(disparity>1.0) via Normal approximation from bootstrap mean/sd.
+
+Top10 by point estimate (with 95% CI):
+- usa: 1.366443 (95% CI 1.211-1.540)
+- guatemala: 1.364984 (95% CI 1.223-1.508)
+- saudi_arabia: 1.359987 (95% CI 1.203-1.565)
+- uae: 1.354513 (95% CI 1.193-1.520)
+- france: 1.345628 (95% CI 1.200-1.526)
+- iceland: 1.318404 (95% CI 1.184-1.468)
+- singapore: 1.256296 (95% CI 1.136-1.385)
+- new_zealand: 1.234673 (95% CI 1.128-1.358)
+- peru: 1.206996 (95% CI 1.076-1.343)
+- panama: 1.200111 (95% CI 1.083-1.337)

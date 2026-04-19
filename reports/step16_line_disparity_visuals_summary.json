@@ -1,0 +1,75 @@
+{
+  "files_used": {
+    "adjusted": "/Users/changhoon/Desktop/CSIA_2nd/WDSC/WHSDSC_2026/out/line_disparity_adjusted_all.csv",
+    "regression": "/Users/changhoon/Desktop/CSIA_2nd/WDSC/WHSDSC_2026/out/line_disparity_regression_all.csv",
+    "strength": "/Users/changhoon/Desktop/CSIA_2nd/WDSC/WHSDSC_2026/out/power_rankings_v3_offset.csv"
+  },
+  "metrics": {
+    "spearman_ratio_adj_vs_reg": 0.9981671554252198,
+    "spearman_ratio_adj_vs_reg_p": 4.138754346764876e-38,
+    "top10_overlap_adj_vs_reg": 10,
+    "spearman_strength_vs_reg_disparity": -0.022739779711284908,
+    "spearman_strength_vs_reg_disparity_p": 0.9016846490013616
+  },
+  "outputs": {
+    "adjusted_vs_regression_png": {
+      "path": "/Users/changhoon/Desktop/CSIA_2nd/WDSC/WHSDSC_2026/out/step16_disparity_adjusted_vs_regression.png",
+      "bytes": 58736
+    },
+    "rank_delta_png": {
+      "path": "/Users/changhoon/Desktop/CSIA_2nd/WDSC/WHSDSC_2026/out/step16_rank_delta_top20.png",
+      "bytes": 68730
+    },
+    "phase1c_regression_png": {
+      "path": "/Users/changhoon/Desktop/CSIA_2nd/WDSC/WHSDSC_2026/out/step16_phase1c_regression_disparity.png",
+      "bytes": 76724
+    }
+  },
+  "largest_ratio_diff": [
+    {
+      "team": "serbia",
+      "disparity_ratio_adj": 1.115746476174312,
+      "disparity_ratio_reg": 1.1253475206875772,
+      "ratio_diff": 0.009601044513265045,
+      "adjusted_rank": 14,
+      "reg_rank": 14,
+      "rank_delta": 0
+    },
+    {
+      "team": "saudi_arabia",
+      "disparity_ratio_adj": 1.3524272324952458,
+      "disparity_ratio_reg": 1.3619068518612036,
+      "ratio_diff": 0.00947961936595787,
+      "adjusted_rank": 3,
+      "reg_rank": 3,
+      "rank_delta": 0
+    },
+    {
+      "team": "india",
+      "disparity_ratio_adj": 1.164344916636564,
+      "disparity_ratio_reg": 1.1718522922852297,
+      "ratio_diff": 0.0075073756486656595,
+      "adjusted_rank": 13,
+      "reg_rank": 12,
+      "rank_delta": -1
+    },
+    {
+      "team": "south_korea",
+      "disparity_ratio_adj": 1.1029446889871646,
+      "disparity_ratio_reg": 1.110033801474139,
+      "ratio_diff": 0.007089112486974525,
+      "adjusted_rank": 16,
+      "reg_rank": 15,
+      "rank_delta": -1
+    },
+    {
+      "team": "peru",
+      "disparity_ratio_adj": 1.2009197949517738,
+      "disparity_ratio_reg": 1.2079348211593326,
+      "ratio_diff": 0.007015026207558783,
+      "adjusted_rank": 9,
+      "reg_rank": 9,
+      "rank_delta": 0
+    }
+  ]
+}
